@@ -48,7 +48,7 @@ cd auth-backend
 2. Start the backend server:
 
 ```bash
-nodemon index.js
+node index.js
 ```
 
 The backend server will start running on `http://localhost:5000`.
