@@ -88,3 +88,8 @@ This project is licensed under the [MIT License](LICENSE).
 - Any additional acknowledgments or resources you want to mention.
 
 Feel free to customize this template according to your project's specific requirements.
+
+## Dockerization
+
+ --For dockerization i made two Dockerfiles  separately for frontend and backend .
+  I attached one docker-compose.yaml file inside project docker-project.
